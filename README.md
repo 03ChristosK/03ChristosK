@@ -7,8 +7,7 @@ A final-year Honors student in Economic Theory & Econometrics at the University 
 ### What I'm Currently Working On
 
 * Beginning my honors thesis focused on economics and advanced quantitative inference methods.
-* Deepening my practical skills through the **Machine Learning Specialization** by Stanford University & DeepLearning.AI.
-* Soon to start **Deep Learning Specialization** by Stanford University & DeepLearning.AI
+* Deepening my practical skills through the **Machine Learning** and **Deep Learning** specializations by Stanford University & DeepLearning.AI.
 * Preparing for a Master's degree in Data Science / Statistics at top European universities.
 
 ### Core Skills
