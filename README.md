@@ -24,5 +24,5 @@ A final-year Honors student in Economic Theory & Econometrics at the University 
 
 **1. Comparative Analysis of Causal Inference Methods**
    * A deep dive into program evaluation using the Lalonde dataset. This project moves beyond standard OLS to implement and compare Logit, focused on a Differences-in-Differences estimation, used Panel Data, Fixed Effects, processed the error terms and analyzed the error's properties, pointed out strengths and weaknesses of the analysis and data.
-   * **[➡️ View Project Repository](https://github.com/YourUsername/Your-Repository-Name)** ```
+   * **[➡️ View Project Repository](https://github.com/03ChristosK/Project-Repository/blob/main/README.md)** ```
 
