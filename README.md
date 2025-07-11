@@ -23,6 +23,6 @@ A final-year Honors student in Economic Theory & Econometrics at the University 
 ### Featured Projects
 
 **1. Comparative Analysis of Causal Inference Methods**
-   * A deep dive into program evaluation using the Lalonde dataset. This project moves beyond standard OLS to implement and compare Logit, focused on a Differences-in-Differences estimation, used Panel Data, Fixed Effects, processed the error terms and analyzed the error's properties, pointed out strengths and weaknesses of the analysis and data.
+   * A deep dive into program evaluation using Panel Data, Fixed Effects, and Difference-in-Differences models to address selection bias.
    * **[➡️ View Project Repository](https://github.com/03ChristosK/Project-Repository/blob/main/README.md)** ```
 
