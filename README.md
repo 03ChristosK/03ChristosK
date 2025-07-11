@@ -1,16 +1,20 @@
-## Hi there 👋
+# Christos Kandylas
 
-<!--
-**03ChristosK/03ChristosK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A final-year Honors student in Economic Theory & Econometrics at the University of Cyprus with a passion for quantitative research, econometrics, and machine learning. My long-term goal is to pursue a Ph.D. in a computational field to work on challenging, data-driven problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Currently Working On
+
+* Completing my honors thesis on [Briefly mention your thesis topic once decided].
+* Deepening my practical skills through the **Machine Learning Specialization** by Stanford University & DeepLearning.AI.
+* Preparing for a Master's degree in Data Science / Statistics at a top European university.
+
+### Core Skills
+
+* **Languages:** Python, STATA, SQL (Basic), German (A1)
+* **Python Libraries:** Pandas, NumPy, Statsmodels, Matplotlib, Scikit-Learn, TensorFlow
+* **Methodologies:** Econometric Modeling, Causal Inference, Time-Series Analysis, Machine Learning, Data Visualization
+
+---
+*Pinned below are some of my key projects. Thank you for visiting!*
